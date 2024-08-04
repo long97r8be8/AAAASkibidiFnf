@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/long97r8be8/Fnfhuylongcu/main/GoldHubb.lua",true))()
